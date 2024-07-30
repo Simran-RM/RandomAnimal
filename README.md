@@ -1,4 +1,4 @@
-Please find the deployed version of the webiste here: https://stackdevpro.github.io/RandomAnimal/
+Please find the deployed version of the webiste here: https://simran-rm.github.io/RandomAnimal/
 
 # Getting Started with Create React App
 
